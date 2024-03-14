@@ -1,5 +1,5 @@
 public with sharing class NuevaClase {
         public static void saludar() {
-            System.debug('¡Hola, buenos dias!');
+            System.debug('¡Hola, buenas noches!');
         }
 }
